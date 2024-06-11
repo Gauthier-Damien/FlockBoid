@@ -1,6 +1,6 @@
 # Simulation Of Flock Boids
 
-Simulation made for student project, use for movement of large PNJ group, this is a global test for understanding and re-use.
+Simulation made for student project, use for movement of large NPC group, this is a global test for understanding and re-use.
 
 # Result
 ![](https://github.com/Gauthier-Damien/FlockBoid/assets/172384330/24abb735-8656-4036-bc2a-f57aec021967.gif)
